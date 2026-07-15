@@ -22,10 +22,5 @@ Estudando fundamentos de Segurança da Informação. Tenho 23 anos, amo aprender
 
 `Criptografia assimétrica` `Redes SOHO` `Dispositivos móveis` `Segurança de dados`
 
-###  Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/gerzilane-almeida )
-
----
 
 <p align="center"><i>Perfil em construção — sempre atualizando! 📚</i></p>
