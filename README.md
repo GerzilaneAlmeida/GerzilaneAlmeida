@@ -24,7 +24,7 @@ Estudando fundamentos de Segurança da Informação. Tenho 23 anos, amo aprender
 
 ###  Como me encontrar
 
-<!- linkedin.com/in/gerzilane-almeida ->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/gerzilane-almeida )
 
 ---
 
