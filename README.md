@@ -21,6 +21,7 @@ Estudando fundamentos de Segurança da Informação. Tenho 23 anos, amo aprender
 ###  Temas que já estudei
 
 `Criptografia assimétrica` `Redes SOHO` `Dispositivos móveis` `Segurança de dados`
+<br><br><br>
 
 
 <p align="center"><i>Perfil em construção — sempre atualizando! 📚</i></p>
