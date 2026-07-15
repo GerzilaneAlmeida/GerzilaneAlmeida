@@ -12,8 +12,7 @@
 
 ### 🔍Sobre mim 
 
-Estudando fundamentos de Segurança da Informação. Tenho 23 anos, amo aprender coisas novas e sobre os avanços da tecnologia, meus hobbies são escrever, criar e fotografar a natureza. Documento aqui minhas anotações de aula, atividades práticas e resumos. 
-
+Estudo fundamentos de Segurança da Informação. Tenho 23 anos e amo aprender coisas novas, além de acompanhar os avanços da tecnologia. Meus hobbies são escrever, criar e fotografar a natureza. Documento aqui minhas anotações de aula, atividades práticas e resumos.
 ###  Repositórios em destaque
 
 - [Meu-primeiro-repositório](https://github.com/GerzilaneAlmeida/Meu-primeiro-reposit-rio) — anotações e práticas de cibersegurança
